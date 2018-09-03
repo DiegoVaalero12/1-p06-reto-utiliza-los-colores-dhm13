@@ -11,7 +11,7 @@ PC: 4000
 
 ## Actividad 2: Pixel Cian
 ```
-3E 04 32 00 C0 18 FE
+3E 08 32 00 C0 18 FE
 ```
 PC: 4000
 
